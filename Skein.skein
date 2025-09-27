@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-2">
+  <generator>Windows Inform 10.1.2</generator>
+  <item nodeId="node-2">
+    <command xml:space="preserve">inform 7 house exploration</command>
+    <result xml:space="preserve">Mirrored&#x000A;An Interactive Fiction by Dylan&#x000A;Release 1 / Serial number 250917 / Inform 7 v10.1.2 / D&#x000A;&#x000A;Living-Room&#x000A;A cozy living room with a comfortable sofa.&#x000A;&#x000A;You can see a sofa here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+</Skein>
